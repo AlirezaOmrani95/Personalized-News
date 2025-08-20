@@ -1,0 +1,8 @@
+{
+    "graphs":{
+        "Personalized Tech News": "./langgraph_utils.py:graph"
+    },
+    "dependencies": [
+        "."
+    ]
+}
